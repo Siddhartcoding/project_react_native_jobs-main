@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "jobsearch",
+    "slug": "jobsearch",
+    "icon": "./assets/icon.png",
+    "extra": {
+      "eas": {
+        "projectId": "b333cbae-4c3c-4ba9-8b3d-75fe23de833e"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/b333cbae-4c3c-4ba9-8b3d-75fe23de833e"
+    },
+    "android": {},
+    "ios": {},
+    "owner": "sodjangs"
+  }
+}
